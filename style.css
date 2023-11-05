@@ -1,9 +1,5 @@
-@import url('URL_OF_PIXEL_FONT');
-
-@font-face {
-  font-family: 'PixelFont';
-  src: url('URL_OF_PIXEL_FONT') format('woff2'); /* Update with the actual URL and format */
-}
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap);
 
 body {
   font-family: 'PixelFont', sans-serif;
