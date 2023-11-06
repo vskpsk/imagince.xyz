@@ -1,8 +1,13 @@
+@font-face {
+  font-family: 'MinecraftTen';
+  src: url('MinecraftTen-VGORe.ttf') format('truetype');
+}
+
 html, body {
   height: 100%;
   width: 100%;
   background-color: #000000;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'MinecraftTen', 'Montserrat', sans-serif; /* Use MinecraftTen as the font */
   text-align: center;
   color: rgb(50, 125, 0);
   height: 100%;
@@ -27,7 +32,8 @@ h2 {
 }
 
 img {
-    width: 30px;
-    height: auto; 
-    margin-left: 7px;     
+  width: 30px;
+  height: auto;
+  margin-left: 7px;
 }
+
