@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'MinecraftTen';
-  src: url('MinecraftTen-VGORe.ttf') format('truetype');
+  src: url('font.otf') format('opentype');
 }
 
 html, body {
