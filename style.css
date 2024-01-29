@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'MinecraftTen';
-  src: url('font.otf') format('opentype');
+  src: url('./font.otf') format('opentype');
 }
 
 html, body {
   height: 100%;
   width: 100%;
   background-color: #000000;
-  font-family: 'MinecraftTen';
+  font-family: 'MinecraftTen', "arial";
   text-align: center;
   color: rgb(50, 125, 0);
   height: 100%;
